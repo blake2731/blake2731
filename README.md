@@ -4,7 +4,7 @@ Full stack software engineer focused on business workflow software, AI automatio
 
 ## Current Focus
 
-Building production style tools with Next.js, TypeScript, Python, PostgreSQL, Prisma, Clerk, and AI assisted workflows.
+Building full stack tools with Next.js, TypeScript, Python, PostgreSQL, Prisma, Clerk, and AI assisted workflows.
 
 ## Featured Work
 
