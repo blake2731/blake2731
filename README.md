@@ -2,12 +2,6 @@
 
 Full stack software engineer focused on business workflow software, AI automation, analytics, and secure web applications.
 
-## Current Focus
-
-Building full stack tools with Next.js, TypeScript, Python, PostgreSQL, Prisma, Clerk, and AI assisted workflows.
-
-## Featured Work
-
 ### SmallBizzWizz
 SaaS style financial analysis platform that converts uploaded spreadsheets into normalized data, analytics, insights, and executive narratives.
 
