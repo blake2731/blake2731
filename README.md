@@ -1,71 +1,70 @@
 # Blake Schmitt
 
-## Full Stack Software Engineer | AI Assisted Development | Testing and Product Engineering
+## Software Engineer | Product Systems | Reliability | Applied AI
 
-Computer Science graduate with more than four years of hands on software engineering experience across application development, business software, academic engineering, and contract AI software evaluation.
+I build software that turns messy real world workflows into systems that can be inspected, validated, and trusted.
 
-I build, test, debug, and improve complete software systems. My current focus is using AI as an engineering accelerator while maintaining strong verification through testing, code review, defect analysis, and direct program execution.
+I use AI aggressively as an engineering accelerator, but I do not treat generated output as proof of correctness. The work I care most about keeps important facts in deterministic logic, validates inputs and state explicitly, exposes failures instead of hiding them, and uses human review where ambiguity cannot be resolved safely.
 
-## Engineering Focus
+## Selected engineering work
 
-• Full stack product development with React, JavaScript, TypeScript, Node.js, Java, Python, SQL, and PostgreSQL
+### SmallBizzWizz
 
-• AI assisted development, technical evaluation, debugging, and rapid prototyping
+Public repository: https://github.com/blake2731/smallbizzwizz
 
-• Test design, quality assurance, defect reproduction, regression testing, and Git based workflows
+Live application: https://smallbizzwizz.com
 
-• REST APIs, database design, authentication, structured data processing, and deployment workflows
+A production Next.js application with authenticated business advisory workflows and a structured financial processing system for skilled nursing operators. The financial pipeline parses Excel workbooks, validates hierarchical totals, normalizes records, generates deterministic insight packets, then uses structured source data for audience specific AI narratives. PostgreSQL, Drizzle ORM, Clerk, Stripe, ExcelJS, Anthropic, and explicit processing diagnostics support the product.
 
-• Product ownership from requirements and implementation through testing, deployment, troubleshooting, and iteration
+### CMS Rescue
 
-## Selected Engineering Work
+A Framer plugin for migration quality assurance and deterministic CMS repair. It detects damaged or flattened relationships after imports, automatically repairs only uniquely resolvable values, preserves the original imported source data, and sends ambiguous or conflicting cases to a guided review workflow. The private implementation also includes Framer permission handling, partial failure recovery, Marketplace packaging, and product licensing work.
 
-### AI Software Evaluation and Quality Engineering
+### Craft Product Publisher
 
-Contract technical work evaluating complete programs and engineering solutions for correctness, reliability, and requirement compliance. Work includes executing code, creating and running tests, reproducing defects, debugging failures, reviewing implementation quality, and using GitHub based development workflows.
+A Python and PySide6 desktop workflow for preparing craft artwork for ecommerce. The application inspects source quality, generates protected previews and Shopify card assets, models product variants, persists reviewable manifests, and keeps product preparation separate from final publishing approval. The foundation includes automated pytest coverage for image processing, variants, and manifest behavior.
 
-### AI Task Manager
+### Prime Lab
 
-Full stack application using React, Node.js, Express, and OpenAI integration to interpret natural language task requests and turn them into structured application data. The project includes frontend and backend development, task prioritization, due date handling, and product planning documentation.
+Public repository: https://github.com/blake2731/prime-lab
 
-### Python Utilities and Continuous Integration
+A computational number theory laboratory built with Python and Streamlit for exploring prime filtering, modular structure, gaps, and visualization through reproducible experiments.
 
-Python utility package with automated tests using pytest and a GitHub Actions continuous integration workflow. Utilities cover environment validation, retry behavior, safe type conversion, text processing, and time formatting.
+### Phase
 
-### Production Business Website
+Public repository: https://github.com/blake2731/phase
 
-Designed and deployed a responsive website for a real service business using HTML, Tailwind CSS, JavaScript, structured SEO metadata, responsive UI components, form validation, and external form processing. The project required translating business requirements into a production web experience and maintaining the deployed system.
+A procedural browser game where graphics, enemy geometry, mechanics, trails, explosions, and audio are generated from code rather than media assets. The project explores trigonometry, circle intersection geometry, prime driven symmetry, Canvas rendering, and live Web Audio synthesis.
 
-### Ecommerce and Business Automation
+## Real world delivery
 
-Built AI assisted workflows for ecommerce product creation, structured data validation, product variants, descriptions, tags, image processing, and bulk CSV preparation. Focused on reducing repetitive manual work while keeping outputs reviewable and reliable.
+I also maintain software and web work tied to actual operating businesses, including ecommerce workflow automation, Shopify theme behavior, and a deployed service business website.
 
-## Technical Stack
+Public business site repository: https://github.com/blake2731/matthews-detail
 
-**Languages:** JavaScript, TypeScript, Python, Java, SQL, C++, HTML, CSS
+## Engineering focus
 
-**Frontend:** React, Next.js, Tailwind CSS
+1. Full stack TypeScript and JavaScript systems.
+2. Python automation and data processing.
+3. PostgreSQL, relational modeling, migrations, and structured persistence.
+4. APIs, authentication, billing, and third party platform integrations.
+5. Input validation, explicit failure states, recovery behavior, and defensive engineering.
+6. Automated testing, continuous integration, debugging, and regression prevention.
+7. Applied AI with deterministic boundaries and verification.
+8. Product engineering from problem discovery through implementation and maintenance.
 
-**Backend:** Node.js, Express, REST APIs, Java application development
+## How I work
 
-**Data:** PostgreSQL, SQL, Prisma, structured JSON, spreadsheet and CSV processing
+The strongest software is not the code that looks clever in isolation. It is the system whose assumptions are visible, whose failure modes are understood, and whose behavior can be checked.
 
-**Quality and Delivery:** Git, GitHub, pytest, GitHub Actions, debugging, regression testing, validation, CI concepts, deployment workflows
-
-**AI:** ChatGPT, Codex, Claude, OpenAI workflows, prompt engineering, structured generation, AI assisted testing and development
-
-## How I Work
-
-I like small teams where engineers own outcomes rather than narrow task lists. I move quickly, learn unfamiliar systems rapidly, and use AI aggressively for research, implementation, testing, and iteration while treating generated code as something that must be verified rather than trusted automatically.
-
-I care about software that works for real users, clear requirements, maintainable code, thoughtful testing, and getting useful products into production.
+I like problems where product judgment and engineering judgment overlap: incomplete data, brittle manual workflows, ambiguous migrations, operational tools, business processes, and systems that need to become more reliable without becoming harder to use.
 
 ## Education
 
 Bachelor of Science in Computer Science, Southern New Hampshire University
 
-Summa Cum Laude | GPA 3.966 | Alpha Sigma Lambda Honor Society
+Summa Cum Laude | GPA 3.967 | Alpha Sigma Lambda Honor Society
 
-## Current Goal
+## Current direction
 
-Seeking a remote full stack software engineering role where I can contribute across product development, testing, AI assisted engineering, backend systems, frontend implementation, and continuous improvement.
+I am pursuing remote software engineering opportunities where I can contribute across product development, backend systems, frontend implementation, automation, quality engineering, and applied AI.
