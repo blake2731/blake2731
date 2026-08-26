@@ -36,6 +36,16 @@ Public repository: https://github.com/blake2731/phase
 
 A procedural browser game where graphics, enemy geometry, mechanics, trails, explosions, and audio are generated from code rather than media assets. The project explores trigonometry, circle intersection geometry, prime driven symmetry, Canvas rendering, and live Web Audio synthesis.
 
+## Open source contribution
+
+### BioBase
+
+Upstream repository: https://github.com/lignum-vitae/biobase
+
+Merged contribution: https://github.com/lignum-vitae/biobase/pull/15
+
+I contributed a Codon Adaptation Index implementation to BioBase through an upstream pull request that was reviewed and merged. The contribution handles DNA and RNA input, stop codons, missing reference coverage, partial codons, invalid inputs, and includes automated tests. This work is presented as an external contribution to BioBase rather than as ownership of the upstream project.
+
 ## Real world delivery
 
 I also maintain software and web work tied to actual operating businesses, including ecommerce workflow automation, Shopify theme behavior, and a deployed service business website.
