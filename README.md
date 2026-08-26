@@ -6,6 +6,18 @@ I build software that turns messy real world workflows into systems that can be 
 
 I use AI aggressively as an engineering accelerator, but I do not treat generated output as proof of correctness. The work I care most about keeps important facts in deterministic logic, validates inputs and state explicitly, exposes failures instead of hiding them, and uses human review where ambiguity cannot be resolved safely.
 
+## Available for contract work
+
+I am available for remote project and contract work where an existing website, ecommerce workflow, CMS migration, data process, or software system needs to be fixed, finished, automated, or made more reliable.
+
+Strong fit areas include:
+
+1. Shopify theme customization, product workflows, catalog automation, and ecommerce tooling.
+2. Framer development, CMS migration cleanup, plugin work, and launch readiness.
+3. Full stack TypeScript and Next.js application development and debugging.
+4. Python automation, spreadsheet processing, data cleanup, and operational tooling.
+5. Reliability work including testing, validation, failure handling, and regression fixes.
+
 ## Selected engineering work
 
 ### SmallBizzWizz
@@ -48,9 +60,7 @@ I contributed a Codon Adaptation Index implementation to BioBase through an upst
 
 ## Real world delivery
 
-I also maintain software and web work tied to actual operating businesses, including ecommerce workflow automation, Shopify theme behavior, and a deployed service business website.
-
-Public business site repository: https://github.com/blake2731/matthews-detail
+I have delivered software and web work tied to operating businesses, including ecommerce workflow automation, Shopify theme behavior, and a custom service business website created as a one time client project.
 
 ## Engineering focus
 
@@ -77,4 +87,4 @@ Summa Cum Laude | GPA 3.967 | Alpha Sigma Lambda Honor Society
 
 ## Current direction
 
-I am pursuing remote software engineering opportunities where I can contribute across product development, backend systems, frontend implementation, automation, quality engineering, and applied AI.
+I am pursuing remote software engineering opportunities and paid contract work where I can contribute across product development, backend systems, frontend implementation, automation, quality engineering, ecommerce, and applied AI.
